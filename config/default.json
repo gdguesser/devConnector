@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://guesser12:guesser12@devconnector.j3huf.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://guesser12:guesser12@devconnector.j3huf.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "testSecretToken"
 }
